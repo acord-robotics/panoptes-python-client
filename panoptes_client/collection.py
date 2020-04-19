@@ -1,7 +1,7 @@
 from __future__ import absolute_import, division, print_function
 from builtins import str
 
-from panoptes_client.panoptes import (
+from panoptes_client.panoptes import ( # from this file/repo, import modules listed in lines 5, 6 /#/#/ github.com/irisdroidology/python-learning
     PanoptesAPIException,
     PanoptesObject,
 )
