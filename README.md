@@ -74,3 +74,6 @@ Or you can run them directly in Python with:
 ```python
 python -m unittest discover
 ```
+
+How does this help out?
+By making it easier for projects to be created and distributed with Zooniverse, it allows us to help with the development of Citizen Science. We can also investigate how to incorporate this into Stellarios (https://www.zooniverse.org/projects/droidology/stellarios)
