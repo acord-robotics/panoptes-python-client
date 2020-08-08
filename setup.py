@@ -5,11 +5,11 @@ setup(
     url='https://github.com/zooniverse/panoptes-python-client',
     author='Adam McMaster',
     author_email='adam@zooniverse.org',
-    version='1.1.1',
+    version='1.2.0',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        'requests>=2.4.2,<2.24',
+        'requests>=2.4.2,<2.25',
         'future>=0.16,<0.19',
         'python-magic>=0.4,<0.5',
         'redo>=1.7',
